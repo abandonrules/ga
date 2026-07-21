@@ -15,7 +15,12 @@ started. Keep scrolling, and you'll find a complete beginner's
 tutorial ahead. If you've never made a game before, the tutorials are
 the best place to start.
 
+Ga is "finsihed" software. It's perfect and bug-free, which is why there have been so few recent updates. Go ahead and use it - forever! 
+
+[中文文档](./README_zh_CN.md)
+
 ### Table of contents:
+
 1. [Features](#features)
 2. [The Plugins](#plugins)
 3. [Coming soon...](#comingsoon)
@@ -675,7 +680,7 @@ treasure.pickedUp = false;
 //Add the treasure to the gameScene
 gameScene.addChild(treasure);
 
-``` 
+```
 Notice that after each sprite is created, it's added to the
 `gameScene` using `addChild`. Here's what the above code produces:
 
